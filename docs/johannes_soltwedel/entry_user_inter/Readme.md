@@ -1,5 +1,5 @@
 # Custom user interfaces for Python (Part 1)
-[Johannes Müller](../Readme), October 18th 2021
+[Johannes Soltwedel](../Readme), October 18th 2021
 
 ## Introduction
 Graphical user interfaces (*GUIs*) are powerful tools to make your scripts and functions available to users that are not necessarily familiar with a lot of coding, development platforms (e.g. Spyder or PyCharm) - and shouldn't be experienced programmers in order to use your tools.
@@ -68,7 +68,7 @@ Run this script from Spyder or from a Jupyter Notebook and that's it, you have c
 
 ![Basic_UI_1| 50%](https://user-images.githubusercontent.com/38459088/137125025-4700ba83-fb56-430e-b394-55485ca4e3f4.JPG)
 
-Let's go through what is happening here briefly. If you want to skip this part, proceed directly to [signals and slots](https://github.com/BiAPoL/blog/new/blog_entry_UI/johannes_mueller#signals-and-slots).
+Let's go through what is happening here briefly. If you want to skip this part, proceed directly to [signals and slots](https://github.com/BiAPoL/blog/new/blog_entry_UI/johannes_soltwedel#signals-and-slots).
 ```python
 class MainWindow(QMainWindow): 
   def __init__(self):
@@ -173,5 +173,5 @@ New number: 4
 ...
 ```
 
-That's it - you are able to create and interact with basic GUIs! For more advanced options on user interfaces, proceed to the [next part on GUIs](https://github.com/BiAPoL/blog/new/blog_entry_UI/johannes_mueller#creating-advanced-standalone-guis)!
+That's it - you are able to create and interact with basic GUIs! For more advanced options on user interfaces, proceed to the [next part on GUIs](https://github.com/BiAPoL/blog/new/blog_entry_UI/johannes_soltwedel#creating-advanced-standalone-guis)!
 

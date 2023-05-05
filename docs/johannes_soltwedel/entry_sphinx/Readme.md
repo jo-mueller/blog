@@ -1,5 +1,5 @@
 # Automated package documentation with Sphinx
-[Johannes Müller](../Readme), November 24th 2021
+[Johannes Soltwedel](../Readme), November 24th 2021
 
 ## Introduction
 We've all been there. We have written this wonderful piece of software that will essentially solve science's most pressing problems, the only *minor* thing left to do is proper documentation. And this, although it's only the last few meters until the finish lines, is where good projects often turn into bad projects.
@@ -54,7 +54,7 @@ Separate source and build directories (y/n) [n]:
 Selecting `n` will lead to  Sphinx creating directories `_build`, `_static` and `_templates` at this location. From what I see, this choice is largely up to what you prefer in terms of directory organisation. In this tutorial, we'll proceed with the default option (`n`).
 ```bash
 > Project name: Very good package
-> Author name(s): Johannes Müller
+> Author name(s): Johannes Soltwedel
 > Project release []: 0.0.1
 > Project language [en]:
 ```

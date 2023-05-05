@@ -1,6 +1,6 @@
 # Johannes Müller
 
-<img src="../images/johannes_mueller.jpg" alt="pol" width="150"/>
+<img src="../images/johannes_soltwedel.jpg" alt="pol" width="150"/>
 
 Hi! My name is Johannes and I originally studied physics. No coding, no biology, just classic physics: lasers, calculations, stuff like that.
 As I started to progress through the academic cycle, I began to be more and more interested into the life sciences: I worked on thermographic imaging of breast
